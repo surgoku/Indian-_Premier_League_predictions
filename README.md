@@ -9,7 +9,7 @@ Originally the problem was listed on Kaggle with objective only one objective (#
     1. Predict winner of any given match (of any season) even before the match has started.
     2. Predict the winner of any given match when the first inning is finished and before the start of the second inning
     3. Predict who will win the 9th season final before the match has begun
-    4. Predict who will win the 9th season final before the match has begun
+    4. Predict who will win the 9th season final after the first inning of the match has finished
     5. Predict the winner of the finals of 9th season based on over-by-over (i.e. at any given state of the match)
     
 ## Approaches
