@@ -32,6 +32,7 @@ Probability of winning the match is obtained over-by-over by providing match and
 ## Results
 
 ### Problem 1 
+
 Name: Gradient Boosting
 Accuracy score:  0.655172413793
 Name: Naive Bayes
@@ -46,10 +47,10 @@ Name: K-nearest Neighbors
 Accuracy score:  0.48275862069
 Name: Ensemble
 Accuracy score:  0.51724137931
-========================================================================================
-Accuracy of prediction before match: 
+
+
+Overall Accuracy of prediction before match: 
 0.655172413793
-========================================================================================
 Overall, Gradient Boosting using XGB gives the best performance.
 
 ### Problem 2
